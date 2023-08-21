@@ -1,0 +1,10 @@
+button {
+ color: #fff;
+ padding: 8px 22px;
+ border-radius: 6px;
+ background-color: #7drae8;
+ transition : all
+}
+button:active {
+ transform: scale(0.96);
+}
